@@ -1,0 +1,51 @@
+{
+  "hide_tray_icon": false,
+  "animation": {
+    "type": "none",
+    "speed": 1.0
+  },
+  "window_rules": [
+    {
+      "match": "Global",
+      "contains": "",
+      "active_border_color": "#00FF33",
+      "inactive_border_color": "#9E9E9E",
+      "animation": {
+        "type": "rainbow",
+        "speed": 1.0
+      }
+    },
+    {
+      "match": "Process",
+      "contains": "Spotify.exe",
+      "active_border_color": "#FF0000",
+      "inactive_border_color": "#0000FF",
+      "border_thickness": 1,
+      "animation": {
+        "type": "rainbow",
+        "speed": 1.0
+      }
+    },
+    {
+      "match": "Process",
+      "contains": "Notepad.exe",
+      "active_border_color": "#00AA00",
+      "inactive_border_color": "#FFFF00",
+      "animation": {
+        "type": "none",
+        "speed": 1.0
+      }
+    },
+    {
+      "match": "Process",
+      "contains": "1Password.exe",
+      "active_border_color": "#FF0000",
+      "inactive_border_color": "#0000FF",
+      "animation": {
+        "type": "none",
+        "speed": 1.0
+      }
+    }
+  ],
+  "service_enabled": true
+}
