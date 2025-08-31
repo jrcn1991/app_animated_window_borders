@@ -146,7 +146,8 @@ The app runs in the background with a system tray icon and stores settings in a 
 ## 👨‍💻 Author
 
 **Rafael Neves**  
-Website: rafaelneves.dev.br
+🌐 [rafaelneves.dev.br](https://rafaelneves.dev.br)  
+
 
 ---
 
