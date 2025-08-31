@@ -28,7 +28,7 @@ The app runs in the background with a system tray icon and stores settings in a 
 
 ### Option 1: Using the executable (.exe)
 
-1. [Download the executable from the Releases section](https://github.com/jrcn1991/app_random_images_for_wallpaper_engine/releases/latest).
+1. [Download the executable from the Releases section](https://github.com/jrcn1991/app_animated_window_borders/releases/latest).
 2. Place it anywhere.
 3. Double-click to start.
 4. To auto-start with Windows, use the Startup folder or Task Scheduler.
